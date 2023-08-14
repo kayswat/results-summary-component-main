@@ -12,7 +12,7 @@ images\Result summary.PNG
 
 ### links
 
-Solution URL: 
+Solution URL: https://github.com/kayswat/results-summary-component-main/tree/main
 
 Live Site URL: https://kayswat.github.io/results-summary-component-main/
 
