@@ -14,7 +14,7 @@ images\Result summary.PNG
 
 Solution URL: 
 
-Live Site URL:
+Live Site URL: https://kayswat.github.io/results-summary-component-main/
 
 ### Built with
 -HTML
